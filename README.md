@@ -1,2 +1,2 @@
-# ActimeterSleepWakeClassification
-Sleep/Wake classification using actimetry data
+# ActimeterSleepAnalysis
+Sleep analysis using actimetry data
