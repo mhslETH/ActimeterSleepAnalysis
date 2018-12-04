@@ -1,0 +1,10 @@
+~ README ~
+ACTIMETER SLEEP/WAKE CLASSIFICATION
+
+
+importActimeterData.m loads the data/MHSLActimeter_WritstRecording.csv, which contains example raw actimeter data recorded over a single night, at 12.5Hz sampling rate
+
+sleepwakeClassification_Cole/JeanLouis/Kripke preprocess the raw actimeter data, calculates Cole/JeanLouis/Kripke scores, and extracts several sleep parameters: sleep start, sleep end, total sleep time, assumed sleep time, minutes moving, and wake time.
+
+DIPE.m performs digital integration per epoch on raw actimeter data
+
